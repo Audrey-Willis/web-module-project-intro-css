@@ -68,26 +68,25 @@ button {
 .plan-visit-button{
     background-color:#FF764E;
 }
+
 .learn-button{
 background-color:#5ED3EB;
-
 }
+
 .involved-button{
     background-color:#FFCD69;
-    
 }
+
 header{
     display:inline-block;
-
 }
 
 .mid-header{
     display:inline-block;
     margin:5%;
     margin:5%;
-
-
 }
+
 header img{
     width:25%;
     border-radius: 50%;
@@ -110,12 +109,12 @@ h1{
     font-size:3rem;
     text-align: center;
     margin:5%;
-
 }
 
 footer{
     background:#F9E7DC;
 }
+
 footer button{
     margin-top:none;
     margin-bottom:5%;
@@ -130,6 +129,7 @@ footer button{
     font-size:1.2rem;
     width:88%;
 }
+
 .middle-colored-paragraph p{
 margin:2%;
 }
@@ -140,20 +140,20 @@ margin:2%;
 .icons img{
     width:20%;
     margin-left:8%;
-   
-    
-    
 }
+
 .icons p{
     width:35%;
     text-align:center;
     font-size:1rem;
 }
+
 .icons div{
     margin:5%;
     margin-left:38%;
     
 }
+
 footer img{
     width:100%;
     height:50vh;
