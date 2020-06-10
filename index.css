@@ -49,27 +49,22 @@ table {
 }
 body{
     font-family: 'roboto mono', 'mon ospace';
-}
 
-header{
-    display:inline-block;
+    
 }
-header img{
-    width:20%;
-    border-radius: 50% ;
-    margin:5%;
-}
-button{
-    margin-left:15%;
-    width:13%;
-    margin-top: 3%;
-    padding:2%;
+button {
+    margin-left:14%;
+    margin-top:8%;
+    width:13vw;
     border:none;
     color:white;
     border-radius:12px;
     font-family: 'roboto mono', 'mon ospace';
-    
+    font-size:1.2rem;
+    text-align: center;
+    height:8vh;
 }
+
 .plan-visit-button{
     background-color:#FF764E;
 }
@@ -79,18 +74,87 @@ background-color:#5ED3EB;
 }
 .involved-button{
     background-color:#FFCD69;
-   
+    
 }
+header{
+    display:inline-block;
+
+}
+
+.mid-header{
+    display:inline-block;
+    margin:5%;
+    margin:5%;
+
+
+}
+header img{
+    width:25%;
+    border-radius: 50%;
+    
+    
+}
+.header-text{
+    display:inline-block;
+    text-align: center;
+    font-size:1.4rem;
+    width:60%;
+}
+
+span{
+    font-weight:bold;
+}
+
 h1{
     font-family: 'chelsea market', 'cursive';
+    font-size:3rem;
+    text-align: center;
+    margin:5%;
+
+}
+
+footer{
+    background:#F9E7DC;
+}
+footer button{
+    margin-top:none;
+    margin-bottom:5%;
 }
 
 .middle-colored-paragraph{
-background-color:#DDB9A3;
+    background-color:#DDB9A3;
+    margin-left:4%;
+    padding:2%;
+    width:80%;
+    color:white;
+    font-size:1.2rem;
+    width:88%;
 }
-.bottom-buttons{
-    background:#F9E7DC;
+.middle-colored-paragraph p{
+margin:2%;
 }
-span{
-    font-weight:bold;
+.icons{
+    display:block;
+
+}
+.icons img{
+    width:20%;
+    margin-left:8%;
+   
+    
+    
+}
+.icons p{
+    width:35%;
+    text-align:center;
+    font-size:1rem;
+}
+.icons div{
+    margin:5%;
+    margin-left:38%;
+    
+}
+footer img{
+    width:100%;
+    height:50vh;
 }
