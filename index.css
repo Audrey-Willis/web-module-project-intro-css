@@ -147,11 +147,14 @@ margin:2%;
 }
 
 footer img{
-    width:100%;
-    height:25vh;
+   width:100%;
+   height:35vh;
+
+
+   
 }
 footer{
-    background:#F9E7DC;
+    background-color:#F9E7DC;
 }
 
 footer button{
